@@ -3,6 +3,7 @@ A repository for GD hax launcher
 
 All hacks use LUA language with custom functions.
 Function list:
+```
 readInt(address)
 readFloat(address)
 readString(address, length)
@@ -11,3 +12,4 @@ writeInt(address, value)
 writeFloat(address, value)
 writeString(address, value)
 getBaseAddress(moduleName)
+```
