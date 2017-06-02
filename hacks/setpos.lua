@@ -1,0 +1,5 @@
+coordBase = readPointer(getBaseAddress("GeometryDash.exe")+0x303118, 0x164, 0x220, 0x674)
+newXPos = userInputInt("Enter new XPos (current is "..tostring(readFloat(coordBase))..")")
+newYPos = userInputInt("Enter new YPos (current is "..tostring(readFloat(coordBase+4))..")")
+writeFloat(coordBase, newXPos)
+writeFloat(coordBase+4, newYPos)
