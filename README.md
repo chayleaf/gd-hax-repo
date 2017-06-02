@@ -14,9 +14,9 @@ writeString(address, value)
 getBaseAddress(moduleName)
 ```
 ## Error handling
-Every script should set variable `error`.
+Errors are handled using global variable `error`.
 Its value corresponds to one of following states:
 
-* 0: OK
+* 0 (or not set): OK
 * 1: Error with message (global errorMessage variable must exist)
 * Anything else: Error code without message
