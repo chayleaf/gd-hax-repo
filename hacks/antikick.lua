@@ -9,3 +9,4 @@ if not (writeInt(base+0x1E6967, 0x9090, 2) and
 	error = 1
 	errorMessage = "Failed to write memory"
 end
+isToggleable = true
