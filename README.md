@@ -12,7 +12,7 @@ writeInt(address, value)
 writeFloat(address, value)
 writeString(address, value)
 getBaseAddress(moduleName)
-readPointer(base, address1, [address2, ...])
+readPointer(base, address1, [address2, ...]) # returns address, not value
 writeHexString(address, hexString)
 ```
 ## Error handling
