@@ -1,5 +1,6 @@
 Antikick|Disables anticheat|pavlukivan|antikick.lua
 NoClip|No damage for normal mode|pavlukivan|noclip.lua
+SetPos|Edits your coordinates|pavlukivan|setpos.lua
+Jumpy|Makes you jump a bit higher|Absolute Gamer|highjump.lua
 test|Simple message box (win10 only)|pavlukivan|test.lua
 whatever|succ|pavlukivan|succ.lua
-Jumpy|Makes you jump a bit higher|Absolute Gamer|highjump.lua
