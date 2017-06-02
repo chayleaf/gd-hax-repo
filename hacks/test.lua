@@ -1,5 +1,3 @@
-if GDMessageBox("test", "test", "ok") then
-  error = 0
-else
+if not GDMessageBox("test", "test", "ok") then
   error = -1
 end
