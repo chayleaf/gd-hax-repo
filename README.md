@@ -14,6 +14,8 @@ writeString(address, value)
 getBaseAddress(moduleName)
 readPointer(base, address1, [address2, ...]) # returns address, not value
 writeHexString(address, hexString)
+userInputString([message])
+userInputInt([message])
 ```
 ## Error handling
 Errors are handled using global variable `error`.
