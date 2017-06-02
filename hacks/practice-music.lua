@@ -6,3 +6,4 @@ if not (writeHexString(base+0x2429E, "EB4D") and
         error = 1
         errorMessage = "Failed to write memory"
 end
+isToggleable = true
