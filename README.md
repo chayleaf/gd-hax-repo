@@ -12,6 +12,8 @@ writeInt(address, value)
 writeFloat(address, value)
 writeString(address, value)
 getBaseAddress(moduleName)
+readPointer(base, address1, [address2, ...])
+writeHexString(address, hexString)
 ```
 ## Error handling
 Errors are handled using global variable `error`.
