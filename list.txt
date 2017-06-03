@@ -8,4 +8,4 @@ Editor Hack|Enables edit level button anywhere|pavlukivan|editor-hack.lua
 Song Bypass|Download copyrighted songs|pavlukivan|song-bypass.lua
 Jumpy|Makes you jump a bit higher|Absolute Gamer|highjump.lua
 test|Simple message box (win10 only)|pavlukivan|test.lua
-whatever|succ|pavlukivan|succ.lua
+whatever|succ|serponge jk pavlukivan|succ.lua
