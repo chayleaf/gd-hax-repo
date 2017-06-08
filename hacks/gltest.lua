@@ -1,5 +1,5 @@
 GL = OpenGL:new()
-GL:glPushMatrix()
+GL:PushMatrix()
 GL:Translatef(x+width/2, y+height/2, 0) --set box position
 GL:Rotatef(rot, 0, 0, 1)                --rotate the box
 GL:Begin(GL_QUADS)
