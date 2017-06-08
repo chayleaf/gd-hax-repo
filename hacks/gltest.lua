@@ -2,7 +2,7 @@ GL = OpenGL:create()
 GL:PushMatrix()
 GL:Translatef(x+width/2, y+height/2, 0) --set box position
 GL:Rotatef(rot, 0, 0, 1)                --rotate the box
-GL:Begin(gl.GL_QUADS)
+GL:Begin(GL_QUADS)
 GL:Color3f(0, 1.0, 0)                   --set box color
 GL:Vertex2f(0, 0)                       --actually
 GL:Vertex2f(0, 0 + height)              --draw
