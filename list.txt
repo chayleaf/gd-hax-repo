@@ -2,7 +2,7 @@ Antikick|Disables anticheat|pavlukivan|antikick.lua
 NoClip|No damage for normal mode|pavlukivan|noclip.lua
 Verify hack|Upload any level|pavlukivan|verify-hack.lua
 Copy hack|Copy any level|pavlukivan|copy-hack.lua
-Teleport hack|Teleports you to level end|pavlukivan|teleport-hax.lua
+Teleport hack|Teleports you to level end|pavlukivan|teleport-hax.lua|1.1
 SetPos|Edits your coordinates|pavlukivan|setpos.lua
 Practice Music|Normal mode music in practice mode|Absolute Gamer|practice-music.lua
 Editor Hack|Enables edit level button anywhere|pavlukivan|editor-hack.lua
