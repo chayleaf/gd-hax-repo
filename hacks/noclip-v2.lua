@@ -1,7 +1,7 @@
 --the new syntax
 mem = MemEditor()
 
-mem.enableCancel() --allow user canceling the hack
+--mem.enableCancel() --allow user canceling the hack
 
 base = mem:getBaseAddress("GeometryDash.exe")
 if not (mem:writeInt(base+0x1F36C5, 0x0005CCE9) and 
