@@ -1,5 +1,5 @@
 --the new syntax
-mem = MemEditor() --GeometryDash.exe")
+mem = MemEditor()
 
 mem:enableCancel() --allow user canceling the hack
 
