@@ -1,4 +1,4 @@
-NoClip V2|testtesttest|pavlukivan|noclip-v2.lua|1.0
+NoClip|No damage for normal mode|pavlukivan|noclip-v2.lua|0.9
 Antikick|Disables anticheat|pavlukivan|antikick.lua
 NoClip|No damage for normal mode|pavlukivan|noclip.lua
 Verify hack|Upload any level|pavlukivan|verify-hack.lua
@@ -9,6 +9,6 @@ Practice Music|Normal mode music in practice mode|Absolute Gamer|practice-music.
 Editor Hack|Enables edit level button anywhere|pavlukivan|editor-hack.lua
 Song Bypass|Download copyrighted songs|pavlukivan|song-bypass.lua
 Jumpy|Makes you jump a bit higher|Absolute Gamer|highjump.lua
-OpenGL test|Rendering test|pavlukivan|gltest.lua
+OpenGL test|Rendering test|pavlukivan|gltest.lua|1.0
 test|Simple message box (win10 only)|pavlukivan|test.lua
 whatever|succ|serponge jk pavlukivan|succ.lua
