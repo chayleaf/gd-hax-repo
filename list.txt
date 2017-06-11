@@ -1,4 +1,3 @@
-NoClip|No damage for normal mode|pavlukivan|noclip-v2.lua|0.9
 Antikick|Disables anticheat|pavlukivan|antikick.lua|0.9
 NoClip|No damage for normal mode|pavlukivan|noclip.lua|0.9
 Verify hack|Upload any level|pavlukivan|verify-hack.lua|0.9
