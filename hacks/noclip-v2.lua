@@ -9,5 +9,5 @@ if not (mem:writeInt(base+0x1F36C5, 0x0005CCE9) and
 	error = 1
 	message = "Failed to write memory"
 else
-	message "Dont forget to enable antikick :D"
+	message = "Dont forget to enable antikick :D"
 end
