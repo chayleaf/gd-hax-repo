@@ -1,14 +1,14 @@
 NoClip|No damage for normal mode|pavlukivan|noclip-v2.lua|0.9
-Antikick|Disables anticheat|pavlukivan|antikick.lua
-NoClip|No damage for normal mode|pavlukivan|noclip.lua
-Verify hack|Upload any level|pavlukivan|verify-hack.lua
-Copy hack|Copy any level|pavlukivan|copy-hack.lua
+Antikick|Disables anticheat|pavlukivan|antikick.lua|0.9
+NoClip|No damage for normal mode|pavlukivan|noclip.lua|0.9
+Verify hack|Upload any level|pavlukivan|verify-hack.lua|0.9
+Copy hack|Copy any level|pavlukivan|copy-hack.lua|0.9
 Teleport hack|Teleports you to level end|pavlukivan|teleport-hax.lua|1.0
-SetPos|Edits your coordinates|pavlukivan|setpos.lua
-Practice Music|Normal mode music in practice mode|Absolute Gamer|practice-music.lua
-Editor Hack|Enables edit level button anywhere|pavlukivan|editor-hack.lua
-Song Bypass|Download copyrighted songs|pavlukivan|song-bypass.lua
-Jumpy|Makes you jump a bit higher|Absolute Gamer|highjump.lua
+SetPos|Edits your coordinates|pavlukivan|setpos.lua|0.9
+Practice Music|Normal mode music in practice mode|Absolute Gamer|practice-music.lua|0.9
+Editor Hack|Enables edit level button anywhere|pavlukivan|editor-hack.lua|0.9
+Song Bypass|Download copyrighted songs|pavlukivan|song-bypass.lua|0.9
+Jumpy|Makes you jump a bit higher|Absolute Gamer|highjump.lua|0.9
 OpenGL test|Rendering test|pavlukivan|gltest.lua|1.0
-test|Simple message box (win10 only)|pavlukivan|test.lua
-whatever|succ|serponge jk pavlukivan|succ.lua
+test|Simple message box (win10 only)|pavlukivan|test.lua|0.9
+whatever|succ|serponge jk pavlukivan|succ.lua|0.9
