@@ -1,5 +1,4 @@
 mem = MemEditor("GeometryDash.exe")
-mem:enableCancel()
 function background()
   while true do
     coordBase = mem:readPointer(getBaseAddress("GeometryDash.exe")+0x303118, 0x164, 0x220, 0x674)
